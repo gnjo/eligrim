@@ -6,10 +6,11 @@
 678
 -*-
 
-let trick=0;
+let trick=0,key=""
 function draw(){
  requestAnimationFrame(draw)
  trick++;
+ if(trick%10===0) key="" //keyflash
 }
 ```
 ![y](img2.jpg)
