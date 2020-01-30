@@ -1,10 +1,16 @@
 # eligrim
 ![x](img1.jpg)
 ```
-012
-345
-678
--*-
+012 //depth 4
+345 //depth 3
+678 //depth 2
+9AB //depth 1
+CDE //depth 0 //D is standing point
+
+ceiling
+ground
+side
+face
 
 let trick=0,key=""
 function draw(){
