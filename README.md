@@ -5,6 +5,12 @@
 345
 678
 -*-
+
+let trick=0;
+function draw(){
+ requestAnimationFrame(draw)
+ trick++;
+}
 ```
 ![y](img2.jpg)
 ```
