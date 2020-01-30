@@ -1,4 +1,3 @@
 # eligrim
-![](img1.jpg)
-![](img2.jpg)
-![](img3.jpg)
+<img src="img1.jpg" width="50%" height="50%"><img src="img2.jpg" width="50%" height="50%">
+<img src="img3.jpg" width="50%" height="50%">
