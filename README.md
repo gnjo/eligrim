@@ -1,3 +1,12 @@
 # eligrim
-<img src="img1.jpg" height="200px"><img src="img2.jpg" height="200px">
-<img src="img3.jpg" height="200px">
+![x](img1.jpg)
+```
+```
+![y](img2.jpg)
+```
+```
+![z](img3.jpg)
+```
+trickcount green
+stroke green to deepgreen
+```
