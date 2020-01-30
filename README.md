@@ -5,7 +5,10 @@
 ![y](img2.jpg)
 ```
 ```
-![z](img3.jpg)
+<img src="img3.jpg" height="200px">     
+
+
+
 ```
 trickcount green
 stroke green to deepgreen
