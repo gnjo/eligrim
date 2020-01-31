@@ -7,6 +7,8 @@
 9AB //depth 1
 CDE //depth 0 //D is standing point
 
+wire(w,h,rate
+
 ceiling
 ground
 side
