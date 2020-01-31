@@ -23,6 +23,7 @@ function draw(){
 ```
 top message 3
 right select 6+1
+oneline message 1
 bottom status 6
 ```
 <img src="img3.jpg" height="200px">     
